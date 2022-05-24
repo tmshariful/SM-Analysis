@@ -1,0 +1,2 @@
+# SM-Analysis
+As we all know facebook provides data about our activities as well as whole messages you have ever send and receive but it provide under many directory and lastly the messages are in json format. So this code will work like a framwork, where you just need to upload the unzip folder and put down the folder named with 'messages'   in the same repository and make a single csv file with all your messages.
